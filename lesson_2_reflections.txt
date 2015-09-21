@@ -1,0 +1,17 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository, git creates the hidden ".git" directory that
+contains the files that keep track of the snapshots of the repository. If you
+don't initialize the repository, no changes will be tracked.
+
+
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging area contains only the files in the working directory (or a
+subdirectory of the working directory) that will be added as a snapshot to the
+repository in the next commit. The repository contains all the snapshots created
+from the staging area during the project. The working directory contains the
+".git" directory as well as other directories and files that may or may not be
+tracked.
