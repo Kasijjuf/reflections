@@ -15,3 +15,12 @@ repository in the next commit. The repository contains all the snapshots created
 from the staging area during the project. The working directory contains the
 ".git" directory as well as other directories and files that may or may not be
 tracked.
+
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+The staging area allows you to prepare a commit by allowing you to see what
+files have changed since the last commit. This allows you verify that all
+differences are related to only one logical change.
