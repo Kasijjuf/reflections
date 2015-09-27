@@ -24,3 +24,14 @@ change?
 The staging area allows you to prepare a commit by allowing you to see what
 files have changed since the last commit. This allows you verify that all
 differences are related to only one logical change.
+
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+ - When you want to create multiple versions of a project
+
+ - When you want to attempt a major change that is likely to break things
+
+ - When you want to implement an experimental feature
