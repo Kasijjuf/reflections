@@ -35,3 +35,11 @@ organized? How would branches help?
  - When you want to attempt a major change that is likely to break things
 
  - When you want to implement an experimental feature
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams allow you to understand the branch structure in fractions of a second.
+If you have to mentally parse just lines of commits, it can take substantially
+longer and is much more prone to error.
