@@ -43,3 +43,11 @@ How do the diagrams help you visualize the branch structure?
 Diagrams allow you to understand the branch structure in fractions of a second.
 If you have to mentally parse just lines of commits, it can take substantially
 longer and is much more prone to error.
+
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+All of the changes made since two branches diverged are joined together during a
+merge. See the above answer for the answer to the second part of this question.
