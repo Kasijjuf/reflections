@@ -51,3 +51,29 @@ the diagram the way we do?
 
 All of the changes made since two branches diverged are joined together during a
 merge. See the above answer for the answer to the second part of this question.
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+------------------
+Automatic merging:
+------------------
+
+PROS
+ * Faster merges
+
+CONS
+ * Reconciling refactorizations of code can be tricky to do automatically
+
+---------------
+Manual merging:
+---------------
+
+PROS
+ * The human intent behind changes can be taken into account
+
+CONS
+ * Merging branches with large changes can be highly susceptible to error
+ * Slow
