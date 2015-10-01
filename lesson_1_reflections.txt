@@ -31,25 +31,25 @@ Choosing manually to commit:
 ----------------------------
 
 PROS
-* Versions have clear logical differences that are easy to understand and
+ * Versions have clear logical differences that are easy to understand and
 compare
-* Versions aren't created midway through edits, thus preventing a version that
+ * Versions aren't created midway through edits, thus preventing a version that
 stops in the midd
 
 CONS
-* It is easy to forget to commit often enough
+ * It is easy to forget to commit often enough
 
 ------------------------------------
 Having versions automatically saved:
 ------------------------------------
 
 PROS
-* Prevents data loss in the case of a software crash or power loss
+ * Prevents data loss in the case of a software crash or power loss
 
 CONS
-* Creates more versions that must be looked through to find where a specific
+ * Creates more versions that must be looked through to find where a specific
 change took place
-* Differences between versions have no pattern to follow when reviewing edits
+ * Differences between versions have no pattern to follow when reviewing edits
 later
 
 
