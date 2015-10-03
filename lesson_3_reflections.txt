@@ -3,3 +3,12 @@ local?
 
 A remote repository allows you to collaborate with others and serves as an
 offsite backup.
+
+
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+If you are working on a new feature, you probably want the base you are building
+upon to remain static until you have the feature working. Only then would you
+pull the latest changes to see how they affect your feature.
