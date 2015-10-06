@@ -12,3 +12,17 @@ automatically stay up-to-date with your remote repository?
 If you are working on a new feature, you probably want the base you are building
 upon to remain static until you have the feature working. Only then would you
 pull the latest changes to see how they affect your feature.
+
+
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+A fork is a repository on GitHub that is a clone of another repository on
+GitHub. A clone is a duplicate of another repository, regardless of where the
+original is located. A branch is a name assigned to a commit and all of its
+parents. A fork is useful when you want to have your own version of someone
+else's project to make changes to. Cloning allows you to make changes to a
+project from a computer other than the one on which the project is stored.
+Branches allow you to develop different features and versions of a project
+seperately and merge them at will with ease.
