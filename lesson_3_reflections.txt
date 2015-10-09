@@ -35,3 +35,12 @@ stored locally?
 If you are going to be offline for an extended period of time, it can be
 beneficial to see what others have been working on so you can merge in their
 changes and continue working instead of having to wait until you are online.
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+Now that I'm familiar with Git and GitHub, I don't even want to think about
+collaborating on a software project without them. Emailing files back and forth.
+Saving multiple copies of files locally. Shudders.
